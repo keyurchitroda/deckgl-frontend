@@ -1,0 +1,8 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    { "type":"Feature","properties":{"region":"north","value":120},"geometry":{"type":"Polygon","coordinates":[[[-122.42,37.80],[-122.40,37.80],[-122.40,37.79],[-122.42,37.79],[-122.42,37.80]]] }},
+    { "type":"Feature","properties":{"region":"south","value":75},"geometry":{"type":"Polygon","coordinates":[[[-122.42,37.79],[-122.40,37.79],[-122.40,37.78],[-122.42,37.78],[-122.42,37.79]]] }}
+  ]
+}
+

@@ -1,0 +1,8 @@
+{
+  "type":"FeatureCollection",
+  "features":[
+    {"type":"Feature","properties":{"from":"p1","to":"p2","volume":120},"geometry":{"type":"LineString","coordinates":[[-122.406417,37.785834],[-122.412345,37.781122]]}},
+    {"type":"Feature","properties":{"from":"p2","to":"p3","volume":40},"geometry":{"type":"LineString","coordinates":[[-122.412345,37.781122],[-122.399245,37.792134]]}}
+  ]
+}
+

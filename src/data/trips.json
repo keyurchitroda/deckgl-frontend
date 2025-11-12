@@ -1,0 +1,18 @@
+[
+  {
+    "vendor": "vehicle-1",
+    "path": [
+      { "coordinates": [-122.406417, 37.785834], "timestamp": 1672531200000 },
+      { "coordinates": [-122.404000, 37.786500], "timestamp": 1672531260000 },
+      { "coordinates": [-122.401000, 37.788000], "timestamp": 1672531320000 }
+    ]
+  },
+  {
+    "vendor": "vehicle-2",
+    "path": [
+      { "coordinates": [-122.412345, 37.781122], "timestamp": 1672531200000 },
+      { "coordinates": [-122.410000, 37.783000], "timestamp": 1672531260000 }
+    ]
+  }
+]
+

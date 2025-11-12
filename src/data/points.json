@@ -1,0 +1,9 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    { "type": "Feature", "properties": { "id": "p1", "type": "restaurant", "rating": 4.2 }, "geometry": { "type": "Point", "coordinates": [ -122.406417, 37.785834 ] } },
+    { "type": "Feature", "properties": { "id": "p2", "type": "cafe", "rating": 4.8 }, "geometry": { "type": "Point", "coordinates": [ -122.412345, 37.781122 ] } },
+    { "type": "Feature", "properties": { "id": "p3", "type": "museum", "rating": 4.6 }, "geometry": { "type": "Point", "coordinates": [ -122.399245, 37.792134 ] } }
+  ]
+}
+
